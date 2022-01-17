@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AparajitaBose001
+- 👋 Hi, I’m Aparajita Bose
 - 👀 I’m interested in Web Devlopment , Cyber Security, Information System, and Networking
 - 🌱 I’m currently learning SQL, CSS, HTML
 - 💞️ I’m looking to collaborate on ...
